@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTLM Harjoitus</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <h1>Tämä on html harjoitus</h1>
+
+    <canvas id="ympyra" width="200" height="100" style="border:1px solid #d3d3d3;">
+        Your browser does not support the HTML canvas tag.</canvas>
+
+    <canvas id="boxi" width="200" height="100" style="border:1px solid #d3d3d3;">
+        Your browser does not support the HTML canvas tag.</canvas>
+
+    <canvas id="suomi" width="200" height="100" style="border:1px solid #d3d3d3;">
+        Your browser does not support the HTML canvas tag.</canvas>
+
+    <canvas id="svg" width="1830" height="1185" style="border:1px solid #d3d3d3;">
+        Your browser does not support the HTML canvas tag.</canvas>
+
+
+    <script>
+        var c = document.getElementById("ympyra");
+        var ctx = c.getContext("2d");
+        ctx.beginPath();
+        ctx.arc(95, 50, 40, 0, 2 * Math.PI);
+        ctx.fillStyle = "red";
+        ctx.fill();
+    </script>
+
+    <script>
+        var c = document.getElementById("boxi");
+        var ctx = c.getContext("2d");
+
+        // Create gradient
+        var grd = ctx.createLinearGradient(0, 0, 200, 0);
+        grd.addColorStop(0, "red");
+        grd.addColorStop(.2, "orange");
+        grd.addColorStop(.4, "yellow");
+        grd.addColorStop(.6, "green");
+        grd.addColorStop(.8, "blue");
+        grd.addColorStop(1, "violet");
+
+        // Fill with gradient
+        ctx.fillStyle = grd;
+        ctx.fillRect(0, 0, 200, 200);
+    </script>
+
+    <script>
+        var c = document.getElementById("suomi");
+        var ctx = c.getContext("2d");
+
+        ctx.fillStyle = "blue";
+        ctx.fillRect(0, 33.33, 200, 33.33);
+        ctx.fillRect(50, 0, 33.33, 100);
+    </script>
+
+    <script>
+        var canvas = document.getElementById('svg');
+        var ctx = canvas.getContext('2d');
+        ctx.strokeStyle = '#000';
+        ctx.lineWidth = 1;
+        ctx.fillStyle = '#000'
+
+        var p = new Path2D("M 0 0 L 447.5 0 Q 550 0 625 20 V 315 Q 575 265 447.5 265 H 270 V 640 H 447.5 Q 675 640 675 460 V 0 L 1560 665 V 0 H 1830 V 1185 L 945 510 Q 895 905 447.5 905 H 270 V 1185 H 0 V 0 Z M 675 920 Q 900 875 945 700 V 1135 H 675 Z");
+        ctx.stroke(p);
+        ctx.fill(p);
+    </script>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,5 @@
+f = open("Numerot.txt", "r")
+text = f.read()
+x = text.split('\n')
+results = list(map(int, x))
+print(sum(results))

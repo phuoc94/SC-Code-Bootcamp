@@ -1,0 +1,32 @@
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/bin/Debug/net5.0/input.exe
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/bin/Debug/net5.0/input.deps.json
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/bin/Debug/net5.0/input.runtimeconfig.json
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/bin/Debug/net5.0/input.runtimeconfig.dev.json
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/bin/Debug/net5.0/input.dll
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/bin/Debug/net5.0/ref/input.dll
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/bin/Debug/net5.0/input.pdb
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/obj/Debug/net5.0/input.csprojAssemblyReference.cache
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/obj/Debug/net5.0/input.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/obj/Debug/net5.0/input.AssemblyInfoInputs.cache
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/obj/Debug/net5.0/input.AssemblyInfo.cs
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/obj/Debug/net5.0/input.csproj.CoreCompileInputs.cache
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/obj/Debug/net5.0/input.dll
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/obj/Debug/net5.0/ref/input.dll
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/obj/Debug/net5.0/input.pdb
+C:/Users/phuoc/OneDrive/code Bootcamp/dotnet/input/obj/Debug/net5.0/input.genruntimeconfig.cache
+/home/kode/codebootcamp/DotNet/consoleApp/input/bin/Debug/net5.0/input
+/home/kode/codebootcamp/DotNet/consoleApp/input/bin/Debug/net5.0/input.deps.json
+/home/kode/codebootcamp/DotNet/consoleApp/input/bin/Debug/net5.0/input.runtimeconfig.json
+/home/kode/codebootcamp/DotNet/consoleApp/input/bin/Debug/net5.0/input.runtimeconfig.dev.json
+/home/kode/codebootcamp/DotNet/consoleApp/input/bin/Debug/net5.0/input.dll
+/home/kode/codebootcamp/DotNet/consoleApp/input/bin/Debug/net5.0/ref/input.dll
+/home/kode/codebootcamp/DotNet/consoleApp/input/bin/Debug/net5.0/input.pdb
+/home/kode/codebootcamp/DotNet/consoleApp/input/obj/Debug/net5.0/input.csprojAssemblyReference.cache
+/home/kode/codebootcamp/DotNet/consoleApp/input/obj/Debug/net5.0/input.GeneratedMSBuildEditorConfig.editorconfig
+/home/kode/codebootcamp/DotNet/consoleApp/input/obj/Debug/net5.0/input.AssemblyInfoInputs.cache
+/home/kode/codebootcamp/DotNet/consoleApp/input/obj/Debug/net5.0/input.AssemblyInfo.cs
+/home/kode/codebootcamp/DotNet/consoleApp/input/obj/Debug/net5.0/input.csproj.CoreCompileInputs.cache
+/home/kode/codebootcamp/DotNet/consoleApp/input/obj/Debug/net5.0/input.dll
+/home/kode/codebootcamp/DotNet/consoleApp/input/obj/Debug/net5.0/ref/input.dll
+/home/kode/codebootcamp/DotNet/consoleApp/input/obj/Debug/net5.0/input.pdb
+/home/kode/codebootcamp/DotNet/consoleApp/input/obj/Debug/net5.0/input.genruntimeconfig.cache
