@@ -7,7 +7,7 @@ namespace guessNumber
         static void Main(string[] args)
         {
             Random rnd = new Random();
-            int randomNumber = rnd.Next(1, 20);
+            int randomNumber = rnd.Next(1, 21);
             int guessLeft = 3;
             Console.WriteLine("Try guess number 1-20, you hae 3 attempt");
             while (guessLeft > 0 ){
@@ -25,7 +25,6 @@ namespace guessNumber
             }
             if(guessLeft == 0){
                 Console.WriteLine($"you lose, correct number is {randomNumber}");
-
             }
         }
     }
