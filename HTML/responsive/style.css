@@ -1,0 +1,30 @@
+
+.ltk{
+    width: 100%;
+    height: 200px;
+}
+.laatikko1{
+    background-color: crimson;
+}
+.laatikko2{
+    background-color:rgb(14, 24, 114)
+}
+.laatikot{
+    display: flex;
+}
+
+/*
+
+@media only screen and (max-width: 600px) {
+    .laatikot{
+        display: grid;
+    }
+}
+
+*/
+
+
+.laatikot{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
